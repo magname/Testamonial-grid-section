@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![image](https://github.com/magname/Testamonial-grid-section/assets/60057043/d8897bf2-cf2a-4c1e-9a4e-1c5ba6540d3b)
+![image](https://magname.github.io/Testamonial-grid-section/)
 
 ### Links
 
